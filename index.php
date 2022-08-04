@@ -68,9 +68,9 @@ fclose($fp);
             --bg-color: #e31;
             --list-bg: #fdc;
             --list-text: gold;
-            --org-text: blue;
-            --org-bg: green;
-            --org-border: solid 1px blue;
+            --org-text: #5df;
+            --org-bg: white;
+            --org-border: solid 1px #5df;
             --update-text: #fff;
         }
         
