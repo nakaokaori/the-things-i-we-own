@@ -63,7 +63,7 @@ fclose($fp);
     <style>
         :root {
             --text-color: sandybrown;
-            --hover-color: liteskyblue;
+            --hover-color: #5df;
             --border-style: 1px dashed skygray;
             --bg-color: yellow;
             --list-bg: transparent;
