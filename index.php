@@ -64,7 +64,7 @@ fclose($fp);
         :root {
             --text-color: sandybrown;
             --hover-color: liteskyblue;
-            --border-style: 1px dashed skyglay;
+            --border-style: 1px dashed skygray;
             --bg-color: yellow;
             --list-bg: transparent;
             --list-text: green;
