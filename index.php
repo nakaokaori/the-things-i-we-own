@@ -66,6 +66,12 @@ fclose($fp);
             --hover-color: blue;
             --border-style: 1px dashed green;
             --bg-color: yellow;
+            --list-bg: transparent;
+            --list-text: green;
+            --org-text: blue;
+            --org-bg: green;
+            --org-border: solid 1px blue;
+            --update-text: #fff;
         }
         
         #server p,

@@ -30,15 +30,6 @@ fclose($fp);
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="index.js"></script>
     <style>
-        :root {
-            --list-bg: transparent;
-            --list-text: green;
-            --org-text: blue;
-            --org-bg: green;
-            --org-border: solid 1px blue;
-            --update-text: #fff;
-        }
-
         .org {
             position: relative;
             color: var(--list-text);
