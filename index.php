@@ -62,7 +62,7 @@ fclose($fp);
     <link rel="stylesheet" href="images.css" />
     <style>
         :root {
-            --text-color: #e90;
+            --text-color: red;
             --hover-color: #5df;
             --border-style: 1px dashed #4c8;
             --bg-color: #d41;
