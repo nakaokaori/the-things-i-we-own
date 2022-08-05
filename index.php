@@ -62,9 +62,9 @@ fclose($fp);
     <link rel="stylesheet" href="images.css" />
     <style>
         :root {
-            --text-color: sandybrown;
+            --text-color: #e90;
             --hover-color: #5df;
-            --border-style: 1px dashed #5f1;
+            --border-style: 1px dashed #4c8;
             --bg-color: #fdb;
             --list-bg: #fdc;
             --list-text: gold;
