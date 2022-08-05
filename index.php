@@ -66,12 +66,12 @@ fclose($fp);
             --hover-color: #5df;
             --border-style: 1px dashed lime;
             --bg-color: #adf;
-            --list-bg: #fda;
-            --list-text: #f50;
+            --list-bg: #cfb;
+            --list-text: #ff7857;
             --org-text: #5df;
-            --org-bg: white;
-            --org-border: solid 1px #;
-            --update-text: #7ad;
+            --org-bg: #f0f;
+            --org-border: solid 1px lime;
+            --update-text: #adf;
         }
         
         #server p,
@@ -316,7 +316,7 @@ fclose($fp);
             ここをクリックすると、ﾅnaｶkaｵoｶkaｵoﾘriが所有するもの一覧が表示されます。
         </marquee>
         <nav id="nav">
-            <h1>～. ～　~ ✷ ｎａｋａｏ ~ｋａｏｒｉ　 ✢~✢~  ~✺～　～</h1>
+            <h1>(～. ～)　~ ✷ ｎａｋａｏ ~ｋａｏｒｉ　 ✢~✢~  ~✺～　～</h1>
             <span id="presents">
                 <img src="/org/qr.png" width="50rem">
             </span>
