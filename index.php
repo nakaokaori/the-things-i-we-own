@@ -68,10 +68,10 @@ fclose($fp);
             --bg-color: #adf;
             --list-bg: #cef;
             --list-text: #25d;
-            --org-text: #ffff66;
+            --org-text: #5df;
             --org-bg: white;
-            --org-border: solid 1px #5df;
-            --update-text: #fff;
+            --org-border: solid 1px #ffff66;
+            --update-text: #7ad;
         }
         
         #server p,
