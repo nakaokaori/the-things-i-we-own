@@ -65,7 +65,7 @@ fclose($fp);
             --text-color: sandybrown;
             --hover-color: #5df;
             --border-style: 1px dashed #5f1;
-            --bg-color: #F4511E;
+            --bg-color: #fdb;
             --list-bg: #fdc;
             --list-text: gold;
             --org-text: #5df;
