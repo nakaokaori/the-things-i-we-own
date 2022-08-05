@@ -2,7 +2,7 @@
 https://creative-community.space/org/
 
 The Things nk Own
-https://creative-community.space/org/nakaokaori/
+https://creative-community.space/kn/
 
 
 CSS Text & Color
