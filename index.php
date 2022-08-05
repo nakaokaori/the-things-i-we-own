@@ -66,12 +66,12 @@ fclose($fp);
             --hover-color: #5df;
             --border-style: 1px dashed lime;
             --bg-color: #adf;
-            --list-bg: #fda;
-            --list-text: #f50;
+            --list-bg: #bdf;
+            --list-text: #cdf;
             --org-text: #5df;
-            --org-bg: white;
-            --org-border: solid 1px #;
-            --update-text: #7ad;
+            --org-bg: #ddf;
+            --org-border: solid 1px lime;
+            --update-text: #adf;
         }
         
         #server p,
