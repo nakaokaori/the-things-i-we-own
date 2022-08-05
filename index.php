@@ -66,11 +66,11 @@ fclose($fp);
             --hover-color: #5df;
             --border-style: 1px dashed #04f;
             --bg-color: #adf;
-            --list-bg: #cef;
+            --list-bg: #f60;
             --list-text: #25d;
             --org-text: #5df;
             --org-bg: white;
-            --org-border: solid 1px #ffff66;
+            --org-border: solid 1px #;
             --update-text: #7ad;
         }
         
