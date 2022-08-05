@@ -381,9 +381,18 @@ fclose($fp);
         <div id="server">
             <p>
                 <?php
-                echo 'IP : '. $_SERVER['REMOTE_ADDR']." | ";
-                echo 'PORT : '. $_SERVER['REMOTE_PORT']."<br/>";
-                echo ''. $_SERVER['HTTP_USER_AGENT'].".";
+                    echo $_SERVER['SERVER_PROTOCOL'];
+                ?>
+                <?php
+                    echo $_SERVER['HTTPS'];
+                ?>
+                <?php
+                    echo $_SERVER['SERVER_ADDR'];
+                ?>
+                <br/>
+                <?php
+                    echo $_SERVER['SERVER_NAME'];
+                    echo $_SERVER['REQUEST_URI'];
                 ?>
             </p>
         </div>
