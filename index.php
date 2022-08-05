@@ -64,11 +64,11 @@ fclose($fp);
         :root {
             --text-color: #fed;
             --hover-color: #5df;
-            --border-style: 1px dashed #4c8;
-            --bg-color: #0ad;
+            --border-style: 1px dashed #04f;
+            --bg-color: #adf;
             --list-bg: #cef;
             --list-text: #25d;
-            --org-text: #5df;
+            --org-text: #ffff66;
             --org-bg: white;
             --org-border: solid 1px #5df;
             --update-text: #fff;
