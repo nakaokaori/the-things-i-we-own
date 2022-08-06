@@ -316,7 +316,7 @@ fclose($fp);
             ここをクリックすると、ﾅnaｶkaｵoｶkaｵoﾘriが所有するもの一覧が表示されます。
         </marquee>
         <nav id="nav">
-            <h1> ˜*　˜〜 ~。~〜  ｎａｋａｏ ~ｋａｏｒｉ ~~ ⠰⠝⠁⠅⠁⠕⠅⠁⠕⠗⠊  ~〜❊~ .〜˜</h1>
+            <h1> ˜* ｎａｋａｏ ~ｋａｏｒｉ ~~ ⠰⠝⠁⠅⠁⠕⠅⠁⠕⠗⠊  ~〜❊~ .〜˜</h1>
             <span id="presents">
                 <img src="/org/qr.png" width="50rem">
             </span>
