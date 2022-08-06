@@ -69,7 +69,7 @@ fclose($fp);
             --list-bg: white;
             --list-text: #e50;
             --org-text: white;
-            --org-bg: #05f;
+            --org-bg: #adf;
             --org-border: solid 1px white;
             --update-text: #adf;
         }
