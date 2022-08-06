@@ -67,7 +67,7 @@ fclose($fp);
             --border-style: 1px dashed lime;
             --bg-color: #adf;
             --list-bg: white;
-            --list-text: #ff7857;
+            --list-text: #e50;
             --org-text: #5df;
             --org-bg: white;
             --org-border: solid 1px lime;
