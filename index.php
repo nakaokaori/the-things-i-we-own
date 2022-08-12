@@ -323,7 +323,7 @@ fclose($fp);
             </span>
             <form>
                 <ol class="search-box">
-                    <li>ｾﾚｸﾄ</li>
+                    <li>ｾﾚｸﾄ⇢</li>
                     <li>
                         <input type="radio" name="org" value="bought" id="bought">
                         <label for="bought" class="label">買った</label>
