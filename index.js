@@ -26,7 +26,7 @@ $(document).ready(function(event) {
 
     volume = new Tone.Volume(-10);
     synth = new Tone.PolySynth(10, Tone.Synth).chain(volume, Tone.Master);
-    notes = Tone.Frequency("g6").harmonize([1, 7, 11, 12, 4, 19, 0, 80]);
+    notes = Tone.Frequency("g6").harmonize([1, 6, 11, 12, 4, 20, 0, 80]);
 });
 
 $("#marquee").click(function(e) {
@@ -36,7 +36,7 @@ $("#marquee").click(function(e) {
 
 $("._more").click(function(e) {
     let randNote = Math.floor(Math.random() * notes.length);
-    synth.triggerAttackRelease(notes[randNote], "2");
+    synth.triggerAttackRelease(notes[randNote], "1n");
 });
 
 $(".label").click(function(e) {
@@ -46,7 +46,7 @@ $(".label").click(function(e) {
 
 $(".list_item img").hover(function() {
     let randNote = Math.floor(Math.random() * notes.length);
-    synth.triggerAttackRelease(notes[randNote], "3");
+    synth.triggerAttackRelease(notes[randNote], "8n");
 });
 
 $(".list_toggle").hover(function() {
