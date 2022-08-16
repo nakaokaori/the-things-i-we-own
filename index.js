@@ -36,7 +36,7 @@ $("#marquee").click(function(e) {
 
 $("._more").click(function(e) {
     let randNote = Math.floor(Math.random() * notes.length);
-    synth.triggerAttackRelease(notes[randNote], "1n");
+    synth.triggerAttackRelease(notes[randNote], "100n");
 });
 
 $(".label").click(function(e) {
