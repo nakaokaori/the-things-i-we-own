@@ -41,7 +41,7 @@ $("._more").click(function(e) {
 
 $(".label").click(function(e) {
     let randNote = Math.floor(Math.random() * notes.length);
-    synth.triggerAttackRelease(notes[randNote], 5n");
+    synth.triggerAttackRelease(notes[randNote], "5n");
 });
 
 $(".list_item img").hover(function() {
