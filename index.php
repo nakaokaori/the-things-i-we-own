@@ -87,7 +87,7 @@ fclose($fp);
         #collection li p b,
         h1,
         h2 {
-            font-family:"ＭＳ 明朝","MS Mincho"
+            font-family: "ＭＳ 明朝","MS Mincho";
             font-weight: 500;
             font-stretch: condensed;
             font-variant: common-ligatures tabular-nums;
