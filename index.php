@@ -87,7 +87,7 @@ fclose($fp);
         #collection li p b,
         h1,
         h2 {
-            font-family: "Arial Narrow", Arial, sans-serif;
+            font-family:"ＭＳ Ｐゴシック", "MS PGothic"
             font-weight: 500;
             font-stretch: condensed;
             font-variant: common-ligatures tabular-nums;
