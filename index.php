@@ -87,7 +87,7 @@ fclose($fp);
         #collection li p b,
         h1,
         h2 {
-            font-family: "游ゴシック Light","游ゴシック","YuGothic","Yu Gothic","游ゴシック体"; font-weight: 200;
+            font-family: "YuGothic","Yu Gothic","游ゴシック体"; /* Mac/Win 共通 */ font-weight: bold;
             font-weight: 500;
             font-stretch: condensed;
             font-variant: common-ligatures tabular-nums;
