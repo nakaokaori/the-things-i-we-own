@@ -87,7 +87,7 @@ fclose($fp);
         #collection li p b,
         h1,
         h2 {
-            font-family: "YuGothic","Yu Gothic","游ゴシック体"; /* Mac/Win 共通 */ font-weight: bold;
+            font-family: "Arial Black,Arial Bold,Gadget,sans-serif;
             font-weight: 500;
             font-stretch: condensed;
             font-variant: common-ligatures tabular-nums;
