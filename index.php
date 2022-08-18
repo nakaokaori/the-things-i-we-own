@@ -87,7 +87,7 @@ fclose($fp);
         #collection li p b,
         h1,
         h2 {
-            font-family: "Arial Black,Arial Bold,Gadget,sans-serif;
+            font-family: "Arial Black","Arial Bold","Gadget",sans-serif;
             font-weight: 500;
             font-stretch: condensed;
             font-variant: common-ligatures tabular-nums;
@@ -110,13 +110,7 @@ fclose($fp);
             display: block;
         }
 
-        #bought:checked~label,
-        #gift:checked~label,
-        #free:checked~label,
-        #made:checked~label,
-        #cant:checked~label,
-        #other:checked~label,
-        #jmty:checked~label {
+        input:checked~label {
             text-decoration: double underline;
         }
         
